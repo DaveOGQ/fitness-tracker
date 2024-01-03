@@ -1,7 +1,7 @@
 # Fitness-Tracker
 Group Project for CPSC 481: Human Computer Interactions. Our project is a mobile fitness-tracker app that allows users to schedule fitness activities, track workout progress, track calories and fluid consumption, and measure their time spent being active. 
 
-## My Collaborator
+## My Collaborators
 Jarin Thundathil   <br />
 Md Abdullah Mehedi  <br />
 Melanie Nguyen  <br />
