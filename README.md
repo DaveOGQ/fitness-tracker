@@ -1,12 +1,24 @@
 # Fitness-Tracker
 Group Project for CPSC 481: Human Computer Interactions. Our project is a mobile fitness-tracker app that allows users to schedule fitness activities, track workout progress, track calories and fluid consumption, and measure their time spent being active. 
 
-## Contributors
-Jarin Thundathil (10149776)  <br />
-Md Abdullah Mehedi (30154770)  <br />
-Melanie Nguyen (30085836)  <br />
-David Oti-George (30141134)  <br />
-Harsh Patil (30125049)
+## My Collaborator
+Jarin Thundathil   <br />
+Md Abdullah Mehedi  <br />
+Melanie Nguyen  <br />
+Harsh Patil 
+
+
+# My Contribution
+This is my first real project in my journey of learning react, my css knowledge was minimal at this point, so the styling applied is quite basic. The main objective of this project was to design an application that could help complete meaningful fitness tasks, while simplifying user workflows. I contributed in all Workout related functionality, namely, the "My Workouts" Landing Page as well as the "My Stats" page. Despite being a design class I chose to implement complete functionality, complete with error handling for incorrect inputs.
+
+Users can:
+  - Change the date for their given workout
+  - Add a workout
+  - Delete a workout
+  - Rename a workout
+The My Workouts page is design for workouts to persist, meaning once a workout is added the workout persists for everyday
+
+For the "My Stats" page users can see more information about a given workout in editable inputs that are autofilled with the current information.
 
 ## Running Instructions (For devs hosting locally)
 1. Clone this repository
